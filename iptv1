@@ -231,9 +231,9 @@ http://tvstar.live:8880/live/salman/salman123/325188.ts
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Sony HD 
 http://tvstar.live:8880/live/salman/salman123/325142.ts
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& MTV plus
-http://tvstar.live:8880/live/salman/salman123/326583.ts
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508.& music india
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",507.star gold
+http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8?
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. music india
 http://bdiptv.net:8080/VOANews/tracks-v1a1/mono.m3u8
 
 
