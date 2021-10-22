@@ -225,8 +225,8 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18100
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Star Plus HD 
 http://tvstar.live:8880/live/salman/salman123/179091.ts
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Zee TV HD 
-http://tvstar.live:8880/live/salman/salman123/325188.ts
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",506.& Zee cinema HD 
+http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8?
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Sony HD 
 http://tvstar.live:8880/live/salman/salman123/325142.ts
