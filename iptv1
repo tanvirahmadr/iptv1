@@ -174,6 +174,9 @@ http://edge.thunderbd.com:8081/roarzone/67/chunks.m3u8?nimblesessionid=6073936&w
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. news 24
 http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?nimblesessionid=6073915&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA0OjEwOjU3IEFNJmhhc2hfdmFsdWU9cjNtUkMzSkd0WXdNNTMwbHh0b1NLZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",55.channel I
+http://edge.thunderbd.com:8081/roarzone/6/chunks.m3u8?nimblesessionid=6074451&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA1OjMzOjE4IEFNJmhhc2hfdmFsdWU9ZDJMWlI2dVliVFlhdjB6SndiMGh3UT09JnZhbGlkbWludXRlcz02MCZpZD01
+
 
 
 
