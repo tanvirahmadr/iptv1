@@ -169,10 +169,10 @@ http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8?
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Sony HD 
 http://tvstar.live:8880/live/salman/salman123/325142.ts
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",507.star gold
-http://203.80.191.3:8089/load/stargoldhd/chunks.m3u8?
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. music india
-http://bdiptv.net:8080/VOANews/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",507.star plus test
+http://edge.thunderbd.com:8081/roarzone/67/chunks.m3u8?nimblesessionid=6073936&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA0OjEzOjQ5IEFNJmhhc2hfdmFsdWU9Rll4SHI0YmFBN291Y29xeEpHb0ZNZz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. news 24
+http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?nimblesessionid=6073915&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA0OjEwOjU3IEFNJmhhc2hfdmFsdWU9cjNtUkMzSkd0WXdNNTMwbHh0b1NLZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 
 
