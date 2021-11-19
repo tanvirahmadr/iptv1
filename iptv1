@@ -15,8 +15,8 @@
 #EXTINF:-1 tvg-logo="" group-title="FM Radio",F----------------------------------------------------------------------------------------------------------------------
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",1.Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",2.Asian TV
-
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",2.Jamuna TV
+http://edge.thunderbd.com:8081/roarzone/13/chunks.m3u8?nimblesessionid=6074864&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjI1OjUzIEFNJmhhc2hfdmFsdWU9ZHJYakI0Y3RHSXBCTXJ6OVFVejByZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",3.ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",4.ATN News
@@ -42,8 +42,8 @@ http://edge.thunderbd.com:8081/roarzone/7/chunks.m3u8?nimblesessionid=6074628&wm
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",8.Boishakhi
 http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",9.BTV
-
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",9.Ekuse
+http://edge.thunderbd.com:8081/roarzone/65/chunks.m3u8?nimblesessionid=6074867&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjI3OjAxIEFNJmhhc2hfdmFsdWU9eENRQ3U0OUlxOFhJZE5hV0pLUVd4QT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",13.Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
@@ -51,7 +51,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",16.Deepto TV
-
+http://edge.thunderbd.com:8081/roarzone/8/chunks.m3u8?nimblesessionid=6074879&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjI4OjIwIEFNJmhhc2hfdmFsdWU9MUhpdVRNWnlDc2QxTDdDNjJhVUYvUT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",20.Ekushey TV
@@ -63,15 +63,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",25.Maasranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",26.Mohona TV
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",26.Duranta TV
+http://edge.thunderbd.com:8081/roarzone/10/chunks.m3u8?nimblesessionid=6074885&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjMwOjI1IEFNJmhhc2hfdmFsdWU9U25jUnpqNXkzVnVYd1dqcmIrczBzdz09JnZhbGlkbWludXRlcz02MCZpZD01
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",27.My TV HD
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",28.Nagorik TV
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",29.News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",30.NTV
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",31.RTV
 
@@ -104,10 +102,10 @@ https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFz
 
 
 
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",59.Zee Bangla Cinema
-https://f8e7y4c6.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-
-
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Indian Bangla",59.Star jalsa
+http://edge.thunderbd.com:8081/roarzone/30/chunks.m3u8?nimblesessionid=6074847&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjIzOjMzIEFNJmhhc2hfdmFsdWU9RWdsY0l2Q015azl6RDIzaEZyOUJtQT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Mix",231.Zee bangla cinema
+http://edge.thunderbd.com:8081/roarzone/29/chunks.m3u8?nimblesessionid=6074857&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjI0OjMzIEFNJmhhc2hfdmFsdWU9UWpqNHorelB0bDY0eHlTcDFONVF4UT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 
 
@@ -130,17 +128,19 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", HBO 
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", HBO (2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/5.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", 400. & Redbull TV
-http://bdiptv.net:8080/RedBullTVHD/tracks-v1a1/mono.m3u8?token=b29b9eafa870dd87d3c5327b503664747aea8227-4f5d9ea53c850f294cb0b1ba55a75c72-1634848379-1634837579
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies HD (2)
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j8Ymta1.png" group-title="English", Sony Pix
+http://edge.thunderbd.com:8081/roarzone/41/chunks.m3u8?nimblesessionid=6074826&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjIxOjIzIEFNJmhhc2hfdmFsdWU9VnBDbHM5SzB3Z2U1dFFFYlRiWUphdz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/euauPCp.png" group-title="English", 400. zee cafe
+http://edge.thunderbd.com:8081/roarzone/69/chunks.m3u8?nimblesessionid=6074814&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjIwOjQ0IEFNJmhhc2hfdmFsdWU9Mkg3ZHlQT24wL3BvR1d1dWNqYWR3QT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", BBC Earth
+http://edge.thunderbd.com:8081/roarzone/44/chunks.m3u8?nimblesessionid=6074834&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjIxOjU5IEFNJmhhc2hfdmFsdWU9QWJYZHFzM3Zidm9HcTdYZzJxV3NmZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English", Star World BDC
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English", Discovery
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="Bangladeshi",28.Nagorik TV
 
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rfjCQoz.png" group-title="English", National geographics 
+http://edge.thunderbd.com:8081/roarzone/35/chunks.m3u8?nimblesessionid=6074906&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjMzOjI2IEFNJmhhc2hfdmFsdWU9VGtQQWlSY0ZTYUZnN2tzMEpzNm1pZz09JnZhbGlkbWludXRlcz02MCZpZD01
                                                     ***** Sports *****
 
 
@@ -181,14 +181,14 @@ http://51.91.73.99:25461/usachannel/ngZnG8PD5i/18100
 http://tvstar.live:8880/live/salman/salman123/179091.ts
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",506.& Zee cinema HD 
-http://203.80.191.3:8089/load/zeecinemahd/chunks.m3u8?
+http://edge.thunderbd.com:8081/roarzone/76/chunks.m3u8?nimblesessionid=6074785&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjE4OjQwIEFNJmhhc2hfdmFsdWU9NkFyN0FDV054K3lLajVzZXNpUER5QT09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",503.& Sony SUB
 http://edge.thunderbd.com:8081/roarzone/36/chunks.m3u8?nimblesessionid=6074656&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA2OjA3OjMzIEFNJmhhc2hfdmFsdWU9U3JmTExzZUN2cnZrNy9IdnJRN0JGZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",507.star plus test
 http://edge.thunderbd.com:8081/roarzone/67/chunks.m3u8?nimblesessionid=6073936&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA0OjEzOjQ5IEFNJmhhc2hfdmFsdWU9Rll4SHI0YmFBN291Y29xeEpHb0ZNZz09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. news 24
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",508. Tsports
 http://edge.thunderbd.com:8081/roarzone/102/chunks.m3u8?nimblesessionid=6073915&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMSA0OjEwOjU3IEFNJmhhc2hfdmFsdWU9cjNtUkMzSkd0WXdNNTMwbHh0b1NLZz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.dropbox.com/s/rgblmfl0utzapcv/sohel.jpeg?raw=1" group-title="English",55.channel I
